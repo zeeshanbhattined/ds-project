@@ -53,4 +53,3 @@ services:
 #      KAFKA_BOOTSTRAP_SERVERS: localhost:9092
 #      APPLICATION_ID: registry_id
 #      APPLICATION_SERVER: localhost:9000
-
